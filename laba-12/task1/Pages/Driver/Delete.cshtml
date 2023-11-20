@@ -1,0 +1,10 @@
+﻿@page "{id}"
+@model task1.Pages.Driver.DeleteModel
+@{
+}
+
+<h1>Delete train @Model.Driver.DriverId</h1>
+<form method="post">
+    <button type="submit">Yes</button>
+    <a asp-page="/Driver/Driver">No</a>
+</form>

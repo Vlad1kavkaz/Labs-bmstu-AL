@@ -1,0 +1,17 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorServices.deps.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorServices.runtimeconfig.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorServices.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\RazorModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.csproj.AssemblyReference.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.csproj.CoreCompileInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.csproj.CopyComplete
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\refint\RazorServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\RazorServices.genruntimeconfig.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\ref\RazorServices.dll

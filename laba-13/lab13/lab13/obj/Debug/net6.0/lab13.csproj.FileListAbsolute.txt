@@ -1,0 +1,16 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\bin\Debug\net6.0\lab13.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\bin\Debug\net6.0\ref\lab13.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.csproj.AssemblyReference.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\App.xaml.g.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\MainPage.xaml.g.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\PassengersPage.xaml.g.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\XamlC.stamp
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab13\lab13\lab13\obj\Debug\net6.0\lab13.pdb

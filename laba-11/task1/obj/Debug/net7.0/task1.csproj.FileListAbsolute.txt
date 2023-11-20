@@ -1,0 +1,5 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab11\task1\obj\Debug\net7.0\task1.csproj.AssemblyReference.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab11\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab11\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab11\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab11\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache

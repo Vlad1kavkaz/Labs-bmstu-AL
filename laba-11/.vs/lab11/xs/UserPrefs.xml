@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9D012BFD-3CB4-4A8A-B097-AB503D43775A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task2/Client.cs">
+    <Files>
+      <File FileName="task2/Server.cs" Line="4" Column="19" />
+      <File FileName="task2/Client.cs" Line="23" Column="65" />
+      <File FileName="task1/Server.cs" Line="10" Column="25" />
+      <File FileName="task1/Client.cs" Line="5" Column="12" />
+      <File FileName="task2/Properties/launchSettings.json" Line="10" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab11" expanded="True">
+            <Node name="task1" expanded="True" />
+            <Node name="task2" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Client.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

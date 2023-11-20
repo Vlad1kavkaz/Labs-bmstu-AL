@@ -1,0 +1,11 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\TaxiModels.deps.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\TaxiModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\TaxiModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.csproj.CoreCompileInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\refint\TaxiModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\TaxiModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\ref\TaxiModels.dll

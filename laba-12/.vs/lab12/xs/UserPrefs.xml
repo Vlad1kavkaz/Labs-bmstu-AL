@@ -1,0 +1,92 @@
+﻿<Properties StartupConfiguration="{279956D1-1D8F-4FA4-8895-E4ABED5C1497}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorServices/AppDbContext.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="11" Column="122" />
+      <File FileName="task1/Pages/Shared/_Layout.cshtml" Line="29" Column="95" />
+      <File FileName="task1/Pages/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="RazorModesls/Passenger.cs" Line="8" Column="42" />
+      <File FileName="RazorServices/IPassengersRepository.cs" Line="9" Column="9" />
+      <File FileName="RazorServices/ITicketsRepository.cs" Line="12" Column="22" />
+      <File FileName="RazorServices/ITrainsRepository.cs" Line="9" Column="31" />
+      <File FileName="RazorModesls/Ticket.cs" Line="8" Column="35" />
+      <File FileName="RazorModesls/Train.cs" Line="2" Column="1" />
+      <File FileName="RazorServices/MockPassengersRepository.cs" Line="37" Column="13" />
+      <File FileName="task1/Pages/Passengers/Passengers.cshtml" Line="14" Column="96" />
+      <File FileName="task1/Pages/Passengers/Passengers.cshtml.cs" Line="21" Column="63" />
+      <File FileName=".editorconfig" Line="1" Column="1" />
+      <File FileName="task1/appsettings.json" Line="11" Column="113" />
+      <File FileName="RazorServices/MockTicketsRepository.cs" Line="62" Column="10" />
+      <File FileName="RazorServices/MockTrainsRepository.cs" Line="51" Column="31" />
+      <File FileName="task1/Pages/Tickets/Tickets.cshtml" Line="16" Column="91" />
+      <File FileName="task1/Pages/Tickets/Tickets.cshtml.cs" Line="11" Column="2" />
+      <File FileName="task1/Pages/Trains/Trains.cshtml" Line="16" Column="89" />
+      <File FileName="task1/Pages/Trains/Trains.cshtml.cs" Line="19" Column="10" />
+      <File FileName="task1/wwwroot/css/site.css" Line="30" Column="41" />
+      <File FileName="task1/Pages/Passengers/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="task1/Pages/Passengers/Edit.cshtml.cs" Line="18" Column="12" />
+      <File FileName="task1/Pages/Passengers/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="task1/Pages/Passengers/Delete.cshtml.cs" Line="1" Column="1" />
+      <File FileName="task1/Pages/Tickets/Delete.cshtml" Line="6" Column="32" />
+      <File FileName="task1/Pages/Tickets/Delete.cshtml.cs" Line="1" Column="1" />
+      <File FileName="task1/Pages/Trains/Delete.cshtml" Line="10" Column="8" />
+      <File FileName="task1/Pages/Trains/Delete.cshtml.cs" Line="37" Column="14" />
+      <File FileName="task1/Pages/Tickets/Edit.cshtml" Line="15" Column="22" />
+      <File FileName="task1/Pages/Tickets/Edit.cshtml.cs" Line="23" Column="1" />
+      <File FileName="task1/Pages/Trains/Edit.cshtml" Line="17" Column="36" />
+      <File FileName="task1/Pages/Trains/Edit.cshtml.cs" Line="54" Column="50" />
+      <File FileName="RazorServices/SqlPassengersRepository.cs" Line="16" Column="10" />
+      <File FileName="RazorServices/SqlTicketsRepository.cs" Line="10" Column="40" />
+      <File FileName="RazorServices/SqlTrainsRepository.cs" Line="12" Column="23" />
+      <File FileName="RazorServices/AppDbContext.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab12" expanded="True">
+            <Node name="RazorModels" expanded="True" />
+            <Node name="RazorServices" expanded="True" />
+            <Node name="task1" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Passengers" expanded="True">
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Passengers.cshtml" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="Tickets" expanded="True">
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Tickets.cshtml" expanded="True" />
+                </Node>
+                <Node name="Trains" expanded="True">
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Trains.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="lab12" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

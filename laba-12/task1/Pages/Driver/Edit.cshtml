@@ -1,0 +1,19 @@
+﻿@page "{id:min(1)?}"
+@model task1.Pages.Driver.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Driver!</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Driver.DriverId" />
+    <div class="passEditRowName">
+        <label asp-for="Driver.DriverId">Edit DriverId: </label>
+        <input asp-for="Driver.DriverId" placeholder="@Model.Driver.DriverId" />
+    </div>
+    <div class="row">
+        <button type="submit">Update</button>
+        <a asp-page="/Driver/Driver">Cancel</a>
+    </div>
+</form>

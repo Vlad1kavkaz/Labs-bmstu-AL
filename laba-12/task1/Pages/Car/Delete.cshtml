@@ -1,0 +1,10 @@
+﻿@page "{id}"
+@model task1.Pages.Car.DeleteModel
+@{
+}
+
+<h1>Delete passenger @Model.Car.CarId</h1>
+<form method="post">
+    <button type="submit">Yes</button>
+    <a asp-page="/Car/Cars">No</a>
+</form>

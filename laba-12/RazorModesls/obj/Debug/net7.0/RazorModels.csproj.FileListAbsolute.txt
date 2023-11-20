@@ -1,0 +1,11 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\RazorModels.deps.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\RazorModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\bin\Debug\net7.0\RazorModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.csproj.CoreCompileInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\refint\RazorModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\RazorModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorModesls\obj\Debug\net7.0\ref\RazorModels.dll

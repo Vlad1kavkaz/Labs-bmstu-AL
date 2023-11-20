@@ -1,0 +1,17 @@
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiServices.deps.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiServices.runtimeconfig.json
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiServices.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiModels.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\bin\Debug\net7.0\TaxiModels.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.csproj.AssemblyReference.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.AssemblyInfoInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.AssemblyInfo.cs
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.csproj.CoreCompileInputs.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.csproj.CopyComplete
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\refint\TaxiServices.dll
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.pdb
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\TaxiServices.genruntimeconfig.cache
+C:\Users\28218\Downloads\bmstuAL3semLabs-main\bmstuAL3semLabs-main\lab12\RazorServices\obj\Debug\net7.0\ref\TaxiServices.dll

@@ -1,0 +1,19 @@
+﻿@page
+@model task1.Pages.Driver.DriverModel
+@{
+}
+
+<h1>Drivers!</h1>
+
+<a class="createTrains" asp-page="/Driver/Edit">Add driver</a>
+
+<div class="row">
+    @foreach (var item in Model.Driver)
+    {
+        <div class="pass">
+            <div class="name">@item.DriverId</div>
+            <div class="update"><a asp-page="/Driver/Edit" asp-route-Id="@item.DriverId">Update</a></div>
+            <div class="delete"><a asp-page="/Driver/Delete" asp-route-Id="@item.DriverId">Delete</a></div>
+        </div>
+    }
+</div>

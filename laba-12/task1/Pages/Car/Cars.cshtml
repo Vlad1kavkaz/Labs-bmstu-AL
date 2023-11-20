@@ -1,0 +1,18 @@
+﻿@page
+@model task1.Pages.Car.CarsModel
+@{
+}
+<h1>Cars!</h1>
+
+<a asp-page="/Car/Edit" class="createPassenger">Add cars</a>
+
+<div class="row">
+    @foreach (var item in Model.Passengers)
+     {
+        <div class="pass">
+            <div class="name">@item.Model</div>
+            <div class="update"><a asp-page="/Car/Edit" asp-route-Id="@item.CarId">Update</a></div>
+            <div class="delete"><a asp-page="/Car/Delete" asp-route-Id="@item.CarId">Delete</a></div>
+        </div>
+     }
+</div>
